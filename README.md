@@ -4,7 +4,8 @@
 - Move the files outside to your root location:
   - `.oh-my-zsh/`
   - `.zshrc`
-- Et Viola !
+- Run the command on terminal from the root: `zsh`
+- Et Voila !
 
 # Contains
 - Git-autocompletion: https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git
