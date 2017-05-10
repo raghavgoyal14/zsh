@@ -8,3 +8,6 @@
 
 # Contains
 - Git-autocompletion: https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git
+
+## Looks like:
+![Alt text](zshell-screenshot.png?raw=true "Optional Title")
