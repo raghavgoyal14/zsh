@@ -4,6 +4,12 @@
 - Move the files outside to your root location:
   - `.oh-my-zsh/`
   - `.zshrc`
+- Edit 
+```
+# Path to your oh-my-zsh installation.
+  export ZSH=/path/to/your/root/.oh-my-zsh
+
+```
 - Run the command on terminal from the root: `zsh`
 - Et Voila !
 
